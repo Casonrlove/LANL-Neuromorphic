@@ -1,2 +1,2 @@
 # LANL-Neuromorphic
-Repository for LANL Neuromorphic Processor
+Repository for LANL Neuromorphic Processor 
